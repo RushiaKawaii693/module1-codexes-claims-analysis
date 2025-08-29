@@ -37,7 +37,7 @@ Based on the analysis in `analysis.py`, the following codes were found to be the
 
 - **ICD Codes:** The top 5 most frequent ICD codes represent the most common diagnoses among inpatient claims. These codes appeared significantly more often than others, indicating prevalent health conditions in the dataset.
 - **DRG Codes:** The most common DRG codes correspond to the most frequently billed diagnosis-related groups, reflecting typical inpatient procedures or treatments.
-- **HCPCS Codes:** The top HCPCS codes highlight the most common procedures and services provided to patients.
+- **HCPCS Codes:** The top HCPCS codes highlight the most common procedures and services provided to patients.Top 5 codes being 99221, G0444, 96156, 99408 and lastly 99495 with 99221 being the most appeared at 8298 entries. 
 
 Additionally, the analysis revealed:
 - Certain ICD and DRG codes are more prevalent in specific regions or among particular patient groups (such as age or gender), suggesting geographic or demographic trends in healthcare utilization.
